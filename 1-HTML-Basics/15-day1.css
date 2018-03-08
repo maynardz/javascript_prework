@@ -1,0 +1,35 @@
+/* h1 {
+    text-align: center;
+    color: lightgreen;
+}
+
+h3 {
+    color: blue;
+    font-weight: bold;
+}
+
+.red-text {
+    color:red;
+}
+
+.truthLie {
+    border: 3px solid black;
+    border-radius: 1em;
+    text-align: center;
+    background-color: lightgrey;
+    width: 33%;
+    display: inline-block;
+} */
+
+table {
+    background-color: lightblue;
+    margin: auto;
+}
+
+.title {
+    font-style: italic;
+}
+
+body {
+    text-align: center;
+}
